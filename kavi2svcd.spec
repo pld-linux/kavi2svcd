@@ -1,6 +1,6 @@
 Summary:	kavi2svcd - a GUI for generating MPEG files from an AVI file
-Summary(de):	kavi2svcd - ein GUI zum generieren von MPEGs aus AVI Dateien
-Summary(pl):	kavi2svcd - GUI do generowania plików MPEG z plików AVI
+Summary(de.UTF-8):   kavi2svcd - ein GUI zum generieren von MPEGs aus AVI Dateien
+Summary(pl.UTF-8):   kavi2svcd - GUI do generowania plikÃ³w MPEG z plikÃ³w AVI
 Name:		kavi2svcd
 Version:	0.8.7
 Release:	1
@@ -27,20 +27,20 @@ vcdimager and burns to CD with cdrdao. It can generate m1v, m2v, and
 mpa files, multiplex the MPEG file, generate cue and bin files, and
 allows the generated command lines to be edited before executing them.
 
-%description -l de
+%description -l de.UTF-8
 kavi2svcd ist ein GUI dass transcode und mplex benutzt um MPEGs aus
 AVI Dateien zu generieren. Es generiert dann ein VideoCDbild mittels
 vcdimager und brennt es mit Hilfe von cdrdao auf eine CD. Es kann m1v,
 m2v und mpa Dateien erstellen, MPEGs verflechten, cue und bin Dateien
 generieren und erlaubt es generierte Befehlslinien zu editiren bevor
-sie ausgeführt werden.
+sie ausgefÃ¼hrt werden.
 
-%description -l pl
-kavi2svcd to GUI do generowania plików MPEG z plików AVI przy u¿yciu
-narzêdzi transcode i mplex. Generuje tak¿e obrazy Video CD przy u¿yciu
-vcdimagera i wypala na CD przy u¿yciu cdrdao. Mo¿e tak¿e generowaæ
-pliki m1v, m2v i mpa, przeplataæ plik MPEG, generowaæ pliki cue i bin,
-a tak¿e pozwala na modyfikowanie wygenerowanych linii poleceñ przed
+%description -l pl.UTF-8
+kavi2svcd to GUI do generowania plikÃ³w MPEG z plikÃ³w AVI przy uÅ¼yciu
+narzÄ™dzi transcode i mplex. Generuje takÅ¼e obrazy Video CD przy uÅ¼yciu
+vcdimagera i wypala na CD przy uÅ¼yciu cdrdao. MoÅ¼e takÅ¼e generowaÄ‡
+pliki m1v, m2v i mpa, przeplataÄ‡ plik MPEG, generowaÄ‡ pliki cue i bin,
+a takÅ¼e pozwala na modyfikowanie wygenerowanych linii poleceÅ„ przed
 ich wykonaniem.
 
 %prep
