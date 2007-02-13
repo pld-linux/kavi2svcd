@@ -1,6 +1,6 @@
 Summary:	kavi2svcd - a GUI for generating MPEG files from an AVI file
-Summary(de.UTF-8):   kavi2svcd - ein GUI zum generieren von MPEGs aus AVI Dateien
-Summary(pl.UTF-8):   kavi2svcd - GUI do generowania plików MPEG z plików AVI
+Summary(de.UTF-8):	kavi2svcd - ein GUI zum generieren von MPEGs aus AVI Dateien
+Summary(pl.UTF-8):	kavi2svcd - GUI do generowania plików MPEG z plików AVI
 Name:		kavi2svcd
 Version:	0.8.7
 Release:	1
