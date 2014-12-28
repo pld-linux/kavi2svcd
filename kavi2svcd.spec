@@ -11,7 +11,7 @@ Source0:	http://dl.sourceforge.net/kavi2svcd/%{name}-%{version}.tar.gz
 URL:		http://www.cornelinux.de/web/linux/kavi2svcd/index-english.html
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	kdelibs-devel >= 3.0
 BuildRequires:	rpmbuild(macros) >= 1.167
 Requires:	cdrdao
